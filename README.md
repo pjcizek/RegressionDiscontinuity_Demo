@@ -1,2 +1,2 @@
 # RegressionDiscontinuity_Demo
-Example of how to perform a regression discontinuity study in Python
+Regression discontinuity methods can be useful for establishing causal relationships. While there are a number of great packages for performing these analyses in Stata, there are limited tools available for performing regression discontinuity studies in Python. This script demonstrates how to use packages in Python, most notably Seaborn for visualization, to perform a Regression Discontinuity study. Data not provided as it was proprietary. 
